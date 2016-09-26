@@ -6,3 +6,4 @@ View the BBC World RSS feed in a clear and minimalistic view as a chrome extensi
 [The extension is available here](https://chrome.google.com/webstore/detail/bbc-world-rss-feed/hhgfopobaojdbdeolddhfkbjjlggampf)
 
 
+![alt text](http://miteyan.com/img/rss.png "Logo Title Text 1")
